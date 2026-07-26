@@ -1,0 +1,43 @@
+# SQL for Data Science – Certification
+
+**Issued by:** Simplilearn
+**Issued to:** Sahana Mulgi
+**Date of Completion:** 27th June 2026
+**Certificate Code:** 10401475
+**Certificate:** [SIMPILEARN_CERTIFICATE.pdf](./SIMPILEARN_CERTIFICATE.pdf)
+
+## Overview
+
+This repository documents my certification in SQL for Data Science from Simplilearn. The course covered core SQL concepts and techniques used for querying, analysing, and managing data — a foundational skill for data analysis and data science workflows.
+
+## Skills Gained
+
+Based on Simplilearn's SQL for Data Science curriculum:
+
+- **Introduction to SQL & Databases** – relational database concepts, SQL basics
+- **Data Definition Language (DDL)** – CREATE, ALTER, DROP tables and schemas
+- **Data Manipulation Language (DML)** – INSERT, UPDATE, DELETE
+- **Data Query Language (DQL)** – SELECT, WHERE, ORDER BY, GROUP BY, HAVING
+- **Joins** – INNER, LEFT, RIGHT, FULL joins across multiple tables
+- **Subqueries & Nested Queries**
+- **Aggregate Functions** – COUNT, SUM, AVG, MIN, MAX
+- **String, Date, and Numeric Functions**
+- **Views and Indexes**
+- **Data Cleaning and Analysis using SQL** for data science workflows
+
+*(Note: I've filled this in based on Simplilearn's typical SQL for Data Science course structure — worth double-checking against your course dashboard/certificate transcript for the exact modules you completed, since course content can be updated over time.)*
+
+## Certificate
+
+📄 [View Certificate – SIMPILEARN_CERTIFICATE.pdf](./SIMPILEARN_CERTIFICATE.pdf)
+
+> Certificate Code: **10401475** — issued by Simplilearn on **27th June 2026**.
+
+## About Me
+
+**Sahana**
+📧 sahanamulgi@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/sahana-mulgi-684baa330)
+
+---
+*This repository is part of my Data Science portfolio, showcasing my SQL skills for data analysis.*
