@@ -1,0 +1,49 @@
+# Python Programming & Applied Machine Learning – Internship Certification
+
+**Issued by:** Karunadu Technologies Pvt. Ltd., Bangalore
+**Duration:** Feb 2026 – May 2026 (3 Months)
+**Certificate:** `certificate.pdf` *(add the file to this repo and update this link once uploaded)*
+
+## Overview
+
+This repository documents my 3-month internship in Python Programming and Applied Machine Learning at Karunadu Technologies Pvt. Ltd. The program covered core Python programming, data handling, and end-to-end machine learning workflows — from data cleaning and feature engineering to model building and evaluation on real-world datasets.
+
+## Skills Gained
+
+- Python programming fundamentals
+- Data cleaning and preprocessing
+- Feature engineering
+- Machine Learning model building (classification & predictive modelling)
+- Model evaluation techniques
+- Working with real-world datasets
+
+## Projects
+
+### 1. Crop Recommendation System Using Machine Learning
+A Machine Learning based system that recommends the most suitable crop to farmers based on soil nutrients, climate conditions, and regional data — helping improve agricultural yield and decision-making.
+
+**Tech stack:** Python, Scikit-learn
+**Status:** *Code/notebook to be added*
+
+### 2. Earthquake and Tsunami Risk Prediction Using Machine Learning
+A predictive ML model that analyses seismic activity, geographic data, and historical patterns to assess the risk of earthquakes and tsunamis, enabling early warning and disaster preparedness.
+
+**Tech stack:** Python, Scikit-learn
+**Status:** *Code/notebook to be added*
+
+## Certificate
+
+*Certificate image/PDF to be added here once uploaded.*
+
+```
+[certificate.pdf](./certificate.pdf)
+```
+
+## About Me
+
+**Sahana**
+📧 sahanamulgi@gmail.com
+
+
+---
+*This repository is part of my Data Science portfolio, showcasing hands-on internship experience in Python and Machine Learning.*
